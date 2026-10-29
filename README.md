@@ -10,21 +10,22 @@ Open `index.html` in a browser, or run `npx serve .`
 ## Deploy
 Import the GitHub repo in Vercel (Framework Preset: Other, no build command, output directory: root).
 
-# 🎮 NEXUS — Beyond the Grid
 
-A modern Tic-Tac-Toe gaming experience.
+<div align="center">
 
-### 🚀 Live Demo
+# 🎮 NEXUS
+### Beyond the Grid
 
-**[▶ Play NEXUS Online](https://nexus-game.vercel.app/)**
+*A next-level Tic-Tac-Toe experience.*
 
-Experience the game directly in your browser — no installation required.
+<br>
 
-### 🌐 Project Link
+<a href="https://nexus-game.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/▶%20PLAY%20NEXUS-Launch%20Game-6C5CE7?style=for-the-badge&labelColor=111827" alt="Play NEXUS Game"/>
+</a>
 
-🔗 https://nexus-game.vercel.app/
+<br><br>
 
----
+**Think strategically. Make your move. Own the grid.**
 
-*Built with creativity and a passion for gaming.*
-
+</div>
